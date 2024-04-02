@@ -1,18 +1,17 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 
-# ReVanced Magisk Module
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
-[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
+# Revanced Extended anddea Magisk Module
+[![CI](https://github.com/Jhosua910/revanced-extended-anddea/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/Jhosua910/revanced-extended-anddea/actions/workflows/ci.yml)
 
 Extensive ReVanced builder  
 
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
+Get the [latest CI release](https://github.com/Jhosua910/revanced-extended-anddea/releases).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
 <details><summary><big>Features</big></summary>
 <ul>
- <li>Support all present and future ReVanced and <a href="https://github.com/inotia00/revanced-patches">ReVanced Extended</a> apps</li>
+ <li>Support all present and future ReVanced and <a href="https://github.com/anddea/revanced-patches">ReVanced Extended</a> apps</li>
  <li> Can build Magisk modules and non-root APKs</li>
  <li> Updated daily with the latest versions of apps and patches</li>
  <li> Optimize APKs and modules for size</li>
@@ -51,3 +50,11 @@ $ git clone https://github.com/j-hc/revanced-magisk-module
 $ cd revanced-magisk-module
 $ ./build.sh
 ```
+## Credits
+[j-hc](https://github.com/j-hc) for
+[zygisk-detach](https://github.com/j-hc/zygisk-detach) and the [script on which this is based on](https://github.com/j-hc/revanced-magisk-module).
+
+[anddea](https://github.com/anddea) for [revanced-extended patches](https://github.com/anddea/revanced-patches). 
+
+[ReVanced](https://github.com/ReVanced) for
+[GmsCore](https://github.com/ReVanced/GmsCore/releases) and the initial proyect
