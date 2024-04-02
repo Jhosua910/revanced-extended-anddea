@@ -1,9 +1,8 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 
-# Revanced Extended anddea Magisk Module
+# Revanced Extended anddea Magisk Modules and Apks
 [![CI](https://github.com/Jhosua910/revanced-extended-anddea/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/Jhosua910/revanced-extended-anddea/actions/workflows/ci.yml)
 
-ReVanced eXtended anddea modules and apks
 
 Get the [latest CI release](https://github.com/Jhosua910/revanced-extended-anddea/releases).
 
