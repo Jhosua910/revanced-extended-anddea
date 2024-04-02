@@ -57,4 +57,4 @@ $ ./build.sh
 [anddea](https://github.com/anddea) for [revanced-extended patches](https://github.com/anddea/revanced-patches). 
 
 [ReVanced](https://github.com/ReVanced) for
-[GmsCore](https://github.com/ReVanced/GmsCore/releases) and the initial proyect
+[GmsCore](https://github.com/ReVanced/GmsCore/releases) and the initial proyect.
