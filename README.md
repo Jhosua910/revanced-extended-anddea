@@ -1,16 +1,16 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 
-# Revanced Extended rufusin Magisk Modules and Apks
-[![CI](https://github.com/Jhosua910/revanced-extended-rufusin/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/Jhosua910/revanced-extended-rufusin/actions/workflows/ci.yml)
+# Revanced Extended YT-Advanced Magisk Modules and Apks
+[![CI](https://github.com/Jhosua910/revanced-extended-yt-advanced/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/Jhosua910/revanced-extended-yt-advanced/actions/workflows/ci.yml)
 
 
-Get the [latest CI release](https://github.com/Jhosua910/revanced-extended-rufusin/releases).
+Get the [latest CI release](https://github.com/Jhosua910/revanced-extended-yt-advanced/releases).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
 <details><summary><big>Features</big></summary>
 <ul>
- <li>Support all present and future ReVanced and <a href="https://github.com/anddea/revanced-patches">ReVanced Extended</a> apps</li>
+ <li>Support all present and future ReVanced and <a href="https://github.com/YT-Advanced/revanced-patches">ReVanced Extended</a> apps</li>
  <li> Can build Magisk modules and non-root APKs</li>
  <li> Updated daily with the latest versions of apps and patches</li>
  <li> Optimize APKs and modules for size</li>
@@ -42,7 +42,7 @@ $ ./build.sh
 [j-hc](https://github.com/j-hc) for
 [zygisk-detach](https://github.com/j-hc/zygisk-detach) and the [script on which this is based on](https://github.com/j-hc/revanced-magisk-module).
 
-[rufusin](https://github.com/rufusin) for [revanced-extended patches](https://github.com/rufusin/revanced-patches). 
+[YT-Advanced](https://github.com/YT-Advanced) for [revanced-extended patches](https://github.com/YT-Advanced/revanced-patches). 
 
 [ReVanced](https://github.com/ReVanced) for
 [GmsCore](https://github.com/ReVanced/GmsCore/releases) and the initial proyect.
