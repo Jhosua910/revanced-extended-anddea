@@ -1,10 +1,10 @@
 #### ⚠️ Do not download modules from 3rd party sources like random websites you found on Google. There are many that uses my modules and impersonates ReVanced.
 
-# Revanced Extended anddea Magisk Modules and Apks
-[![CI](https://github.com/Jhosua910/revanced-extended-anddea/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/Jhosua910/revanced-extended-anddea/actions/workflows/ci.yml)
+# Revanced Extended rufusin Magisk Modules and Apks
+[![CI](https://github.com/Jhosua910/revanced-extended-rufusin/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/Jhosua910/revanced-extended-rufusin/actions/workflows/ci.yml)
 
 
-Get the [latest CI release](https://github.com/Jhosua910/revanced-extended-anddea/releases).
+Get the [latest CI release](https://github.com/Jhosua910/revanced-extended-rufusin/releases).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
@@ -42,7 +42,7 @@ $ ./build.sh
 [j-hc](https://github.com/j-hc) for
 [zygisk-detach](https://github.com/j-hc/zygisk-detach) and the [script on which this is based on](https://github.com/j-hc/revanced-magisk-module).
 
-[anddea](https://github.com/anddea) for [revanced-extended patches](https://github.com/anddea/revanced-patches). 
+[rufusin](https://github.com/rufusin) for [revanced-extended patches](https://github.com/rufusin/revanced-patches). 
 
 [ReVanced](https://github.com/ReVanced) for
 [GmsCore](https://github.com/ReVanced/GmsCore/releases) and the initial proyect.
