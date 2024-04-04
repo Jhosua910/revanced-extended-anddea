@@ -42,7 +42,7 @@ $ ./build.sh
 [j-hc](https://github.com/j-hc) for
 [zygisk-detach](https://github.com/j-hc/zygisk-detach) and the [script on which this is based on](https://github.com/j-hc/revanced-magisk-module).
 
-[YT-Advanced](https://github.com/YT-Advanced) for [revanced-extended patches](https://github.com/YT-Advanced/revanced-patches). 
+[YT-Advanced](https://github.com/YT-Advanced) for [revanced-extended patches](https://github.com/YT-Advanced/REX-patches). 
 
 [ReVanced](https://github.com/ReVanced) for
 [GmsCore](https://github.com/ReVanced/GmsCore/releases) and the initial proyect.
