@@ -7,17 +7,17 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-patches-source = "rufusin/revanced-patches"
-integrations-source = "rufusin/revanced-integrations"
+patches-source = "YT-Advanced/ReX-patches"
+integrations-source = "YT/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced eXtended rufusin"
+rv-brand = "ReVanced eXtended"
 build-mode = "both"
 
 [YouTube-Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-patches-source = "rufusin/revanced-patches"
-integrations-source = "rufusin/revanced-integrations"
+patches-source = "Yt-Advanced/ReX-patches"
+integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced eXtended rufusin"
+rv-brand = "ReVanced eXtended"
 build-mode = "both" 
 arch = "both"
